@@ -265,9 +265,6 @@ This project demonstrates:
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here after completing the project:
 
 ```text
 images/
