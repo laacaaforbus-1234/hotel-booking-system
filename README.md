@@ -16,6 +16,22 @@ Book rooms, manage reservations, and experience dynamic seasonal pricing in a de
 
 ---
 
+# 👨‍💻 Developers
+
+* **Chala Mosisa**
+* **Filmon Haile**
+* **Sisay Hulugeta**
+* **Nahom Berhanu**
+* **Natnael Getachew**
+
+---
+
+Course: **OOP**
+
+Institution: **AAU**
+
+---
+
 ## 📖 Overview
 
 The **Hotel Booking System** is a desktop application developed using **Java Swing** and **SQLite**. It allows customers to browse available rooms, create reservations, manage bookings, and experience dynamic seasonal pricing.
